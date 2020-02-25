@@ -2,8 +2,7 @@
 
  ![Show Case](https://github.com/typescript59/ASOS/raw/master/ASOS-Showcase%402x.png)
 
-##### *** This is work in progress ****
-A React Native Clone of the popular ASOS App, this project was done over ~~one weekend~~ a period of time for learning purposes and is theremore not being maintained. Feel free to fork and use as you please.
+A React Native Clone of the popular ASOS App, this project was done over a period of time for learning purposes and is theremore not being maintained. Feel free to fork and use as you please.
 
 It is platform agnostic although nearly all work done so far has been written and tested on iOS.
 
